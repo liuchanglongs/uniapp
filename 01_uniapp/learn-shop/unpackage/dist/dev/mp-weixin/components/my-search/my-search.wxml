@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['go',['$event']]]]]}}" class="container" bindtap="__e"><view class="box"><text>搜索</text></view></view>

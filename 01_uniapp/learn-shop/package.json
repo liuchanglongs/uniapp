@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "wechat-request": "^2.6.1"
+  }
+}
